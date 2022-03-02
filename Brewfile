@@ -1,4 +1,5 @@
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
+cask "docker"
 cask "iterm2"

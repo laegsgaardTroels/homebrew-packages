@@ -9,3 +9,4 @@ make
 # References
 
 - https://brew.sh
+- https://stackoverflow.com/a/43365425
