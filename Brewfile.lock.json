@@ -1,0 +1,41 @@
+{
+  "entries": {
+    "tap": {
+      "homebrew/bundle": {
+        "revision": "7f7a2b8e3fc4b119dac3f0379ae0f96fa3b56bae"
+      },
+      "homebrew/cask": {
+        "revision": "ee9003f931f873e170689156795677b43110cbfa"
+      },
+      "homebrew/core": {
+        "revision": "95d9f6858660f9568323723ab9aaaca384783c6e"
+      }
+    },
+    "cask": {
+      "docker": {
+        "version": "4.6.1,76265",
+        "options": {
+          "full_name": "docker"
+        }
+      },
+      "iterm2": {
+        "version": "3.4.15",
+        "options": {
+          "full_name": "iterm2"
+        }
+      }
+    }
+  },
+  "system": {
+    "macos": {
+      "monterey": {
+        "HOMEBREW_VERSION": "3.4.3",
+        "HOMEBREW_PREFIX": "/opt/homebrew",
+        "Homebrew/homebrew-core": "95d9f6858660f9568323723ab9aaaca384783c6e",
+        "CLT": "13.2.0.0.1.1638488800",
+        "Xcode": "13.2.1",
+        "macOS": "12.2.1"
+      }
+    }
+  }
+}

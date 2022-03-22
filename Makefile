@@ -1,5 +1,5 @@
 .PHONY: install
-install: .brewinstall
+install:
 	brew bundle
 
 .PHONY: Brewfile
